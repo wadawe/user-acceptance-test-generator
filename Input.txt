@@ -1,0 +1,56 @@
+# This is an example input.txt file.
+# It contains a series of example requirements.
+
+A user must be able to access the system.
+A user must be able to search for a product.
+A user must be able to view a product page.
+A system must allow a user to be able to purchase a product.
+The system must use the preexisting payment gateway.
+The system could display advertisements based on viewed products.
+
+An employee must be able to access the system.
+An employee must be able to login to the system.
+An employee must be able to update a product.
+An employee should be able to add a product.
+An employee could be able to delete a product.
+
+The system must have a GUI.
+The system must load between 0 and 5 seconds.
+The system must relfect updated products within 10 minutes.
+The system could change language based on the users location.
+The system should be accessible from the U.K.
+The system should be accessible from the U.S.
+The system should be accessible from Europe.
+The GUI must adapt to a screen size change.
+
+The GUI must have a header.
+The header must have a blue background.
+The header must display the company logo.
+The header must have a navigation bar.
+The header must adapt to a screen size change.
+
+The GUI must have a main body.
+The main body must have a white background.
+The main body must have a title heading.
+The main body must adapt to a screen size change.
+
+The GUI must have a product page.
+The product page must load within 5 seconds.
+A product page should display the product name.
+A product page should display the product description.
+A product page should display the product price.
+A product page could display the product image.
+
+The GUI must display a product.
+A product should have a product name.
+A product should have a product description.
+A product should have a product price.
+A product could have an product image.
+A product should have a product page.
+
+The GUI must have a footer.
+The footer must have a black background.
+The footer must display website links.
+Website links should have green text.
+The footer will not display a copyright notice.
+The footer must adapt to a screen size change.
